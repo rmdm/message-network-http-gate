@@ -1,0 +1,28 @@
+{
+  "name": "message-network-http-gate",
+  "version": "0.0.1",
+  "description": "http/https gate for message-network",
+  "main": "index.js",
+  "scripts": {
+    "test": "_mocha --recursive test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmdm/message-network-http-gate.git"
+  },
+  "keywords": [
+    "message-network",
+    "http",
+    "https",
+    "gate"
+  ],
+  "author": "rmdm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rmdm/message-network-http-gate/issues"
+  },
+  "homepage": "https://github.com/rmdm/message-network-http-gate#readme",
+  "dependencies": {
+    "message-network": "0.0.3"
+  }
+}
